@@ -30,7 +30,7 @@
     </properties>
     <modules>
         <module>dubbo-test-compatibility</module>
-        <module>dubbo-test-integration</module>
+        <!--<module>dubbo-test-integration</module>-->
     </modules>
 
     <dependencyManagement>
